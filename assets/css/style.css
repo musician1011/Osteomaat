@@ -14,11 +14,11 @@ body {
 }
 
 a {
-  color: #FF6940;
+  color: #E00B00;
 }
 
 a:hover {
-  color: #ffc85a;
+  color: #F72A0C;
   text-decoration: none;
 }
 
@@ -45,13 +45,13 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 4px;
-  background: #FF6940;
+  background: #E00B00;
   color: #fff;
   transition: all 0.4s;
 }
 
 .back-to-top i:hover {
-  background: #ffc550;
+  background: #ff6047;
   color: #fff;
 }
 
@@ -107,7 +107,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #ffc85a;
+  color: #E00B00;
   text-decoration: none;
 }
 
@@ -145,7 +145,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #FF6940;
+  color: #E00B00;
 }
 
 .nav-menu .drop-down > a:after {
@@ -240,7 +240,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #FF6940;
+  color: #E00B00;
   text-decoration: none;
 }
 
@@ -356,7 +356,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-scroll:hover {
-  color: #FF6940;
+  color: #E00B00;
 }
 
 @media (min-width: 1024px) {
@@ -699,7 +699,7 @@ section {
 }
 
 .portfolio .portfolio-item .portfolio-info .preview-link:hover, .portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: #ffc041;
+  color: #F72A0C;
 }
 
 .portfolio .portfolio-item .portfolio-info .details-link {
@@ -813,10 +813,10 @@ section {
 
 .contact .info-box i.bx {
   font-size: 24px;
-  color: #FF6940;
+  color: #E00B00;
   border-radius: 50%;
   padding: 15px;
-  background: #fff6e4;
+  background: #fccabe;
 }
 
 .contact .info-box h3 {
@@ -861,7 +861,7 @@ section {
   font-size: 14px;
   text-align: center;
   padding: 80px 0;
-  position: relative;
+  position: sticky;
 }
 
 #footer::before {
