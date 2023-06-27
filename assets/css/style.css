@@ -851,15 +851,10 @@ section {
     text-align: center;
     box-shadow: 0 0 40px rgba(214, 215, 216, 0.6);
     padding: 20px 0 30px 0;
-    display: grid;
-}
-
-.services .info-box i.bx {
-    font-size: 24px;
-    color: #E00B00;
-    border-radius: 50%;
-    padding: 15px;
-    background: #fccabe;
+    display: relative;
+    min-height: 12vh;
+    justify-content: center;
+    align-content: center;
 }
 
 .services .info-box h3 {
@@ -904,6 +899,7 @@ section {
     text-align: center;
     box-shadow: 0 0 40px rgba(214, 215, 216, 0.6);
     padding: 20px 0 30px 0;
+    min-height: 20vh;
 }
 
 .contact .info-box i.bx {
