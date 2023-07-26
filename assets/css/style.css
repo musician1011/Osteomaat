@@ -698,6 +698,11 @@ section {
     transition: all 0.8s ease-in-out;
 }
 
+.portfolio .img-fluid {
+    justify-content: center;
+    align-items: center;
+}
+
 .portfolio .portfolio-item .portfolio-info {
     opacity: 0;
     position: absolute;
