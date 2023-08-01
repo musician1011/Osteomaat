@@ -768,6 +768,7 @@ section {
 
 .portfolio-details {
     padding-top: 30px;
+    min-height: 75vh;
 }
 
 .portfolio-details .portfolio-details-container {
@@ -960,7 +961,7 @@ section {
 #footer {
     background: url("../img/logo-1.jpg") top center no-repeat;
     background-size: cover;
-    background-position: -9vh;
+    background-position: ;
     color: #fff;
     font-size: 14px;
     text-align: center;
